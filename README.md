@@ -8,11 +8,11 @@ To run this program, use the command:
 
 Shortcuts
 
-NOTE: If you only run the main.py file, normal webcam appears. For the effect to appear in real time, use this keys
+NOTE: If you only run the main.py file, normal webcam appears. For the effect to appear in real time, use this keys<br>
 
- Normal Camera  **n** 
- Remove Background  **b** 
- Full Camera ASCII  **f** 
- Only Person in ASCII  **p** 
- Only Background in ASCII  **a** 
+ Normal Camera  **n**   
+ Remove Background  **b**   
+ Full Camera ASCII  **f**   
+ Only Person in ASCII  **p**   
+ Only Background in ASCII  **a**   
 
